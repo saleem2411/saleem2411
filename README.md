@@ -49,7 +49,21 @@ Aspiring Data Analyst with expertise in SQL, Python, Advanced Excel, Power BI, D
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-ffffff?style=flat&logoColor=000000)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-F2C811?style=flat&logoColor=000000)
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-21A366?style=flat&logoColor=white)
-![Snowflake Schema](https://img.shields.io/badge/Snowflake%20Schema-CC292
+![Snowflake Schema](https://img.shields.io/badge/Snowflake%20Schema-CC2927?style=flat&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-3670A0?style=flat&logoColor=white)
+![Data Accuracy](https://img.shields.io/badge/Data%20Accuracy-ffffff?style=flat&logoColor=000000)
+![Performance Optimisation](https://img.shields.io/badge/Performance%20Optimisation-F2C811?style=flat&logoColor=000000)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-21A366?style=flat&logoColor=white)
+![Insights](https://img.shields.io/badge/Insights-CC2927?style=flat&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-3670A0?style=flat&logoColor=white)
+![Story Telling](https://img.shields.io/badge/Story%20Telling-ffffff?style=flat&logoColor=000000)
+![Reports](https://img.shields.io/badge/Reports-F2C811?style=flat&logoColor=000000)
+![Dashboards](https://img.shields.io/badge/Dashboards-21A366?style=flat&logoColor=white)
+![Aggregate Functions](https://img.shields.io/badge/Aggregate%20Functions-CC2927?style=flat&logoColor=white)
+![Filtering](https://img.shields.io/badge/Filtering-3670A0?style=flat&logoColor=white)
+![Sorting](https://img.shields.io/badge/Sorting-ffffff?style=flat&logoColor=000000)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=saleem2411&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
